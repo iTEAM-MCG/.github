@@ -1,0 +1,1 @@
+This is a special repository containing the iTEAM MCG organization description
