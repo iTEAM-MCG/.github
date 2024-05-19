@@ -1,1 +1,1 @@
-# Welcome to the iTEAM Mobile Communications GitHub
+# Welcome to the iTEAM Mobile Communications Group GitHub
